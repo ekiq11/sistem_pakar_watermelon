@@ -82,7 +82,7 @@ class _RiwayatState extends State<Riwayat> {
                         showTopSnackBar(
                           context,
                           const CustomSnackBar.info(
-                            message: "Data berhasil dihapus dari riwayat anda",
+                            message: "Data berhasil dihapus dari riwayat",
                           ),
                         );
                       } else {
