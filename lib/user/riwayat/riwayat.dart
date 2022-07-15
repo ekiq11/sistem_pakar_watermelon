@@ -55,7 +55,7 @@ class _RiwayatState extends State<Riwayat> {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         title: Center(
-          child: Text("Riwayat",
+          child: Text("Data Riwayat",
               style: TextStyle(
                   fontSize: 12.sp, fontFamily: 'Poppin', color: Colors.white)),
         ),
